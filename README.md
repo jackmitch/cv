@@ -6,7 +6,7 @@
 Currently working as a consultant I have extensive experience working with OpenEmbedded, Yocto, build systems, Linux kernel programming and Linux userspace development. Available to commute for on-site work in the London area, or to work remotely with on-site visits when necessary.
 
 ### Tuxable Ltd - 2014 - Present
-### Consultant
+### Consultant/Contractor
 
 Director and consultant at [Tuxable Ltd](http://www.tuxable.co.uk).
 
