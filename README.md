@@ -12,10 +12,10 @@ Director and consultant at [Tuxable Ltd](http://www.tuxable.co.uk).
 
 #### Recent Contract Projects
 
-- Kernel driver for real-time sensor readings on ARM Linux platform
-- Userspace development in C for a wearable camera device
+- Kernel driver for real-time sensor readings on ARM Linux platform (I2C/SPI)
+- Userspace development in C for a wearable camera device (Posix Message Queues/pthreads/ioctl/time-sensitive/gstreamer)
 - Yocto/Openembedded BSP for nVidia Tegra TK1 platform ([github:meta-tegra](https://github.com/madisongh/meta-tegra))
-- Specifying and evaluating hardware platforms for low-cost Linux camera based product
+- Specifying and evaluating hardware platforms for low-cost Linux camera based product (iMX.6/Atmel/Rockchip/Allwinner)
 - Prototyping Android sensor and camera application
 - Yocto/Openembedded BSP for GStreamer/Ducati OMAP4 platform
 - Linux Distribution designs encompassing security, in-field upgradability and performance
