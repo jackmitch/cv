@@ -1,6 +1,6 @@
 ## CV - Jack Mitchell - London, UK
 
-#### jack@embed.me.uk : 07757472002
+#### jack@embed.me.uk : 07757472002 : https://github.com/jackmitch
 ---
 
 Currently working as a consultant I have extensive experience working with OpenEmbedded, Yocto, build systems, Linux kernel programming and Linux userspace development.
@@ -49,6 +49,8 @@ While at dB Broadcast I worked on the MERlin DVB-T/T2 monitoring receiver which 
 
 I designed and implemented a new range of products harnessing the power of Embedded Linux and the OpenEmbedded/Yocto build framework.
 
+---
+
 ### Credativ - June 2010 - September 2010
 ### Student Open Source Software Engineer
 
@@ -67,3 +69,7 @@ Embedded Systems Engineering, 2:1
 
 ### Aston University - 2006-2008
 Electronic Product Design, Transferred
+
+---
+
+This CV is a PDF derived from https://github.com/jackmitch/cv, please check for recent updates.
