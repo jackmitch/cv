@@ -1,6 +1,6 @@
 ## CV - Jack Mitchell - London, UK
 
-####jack@embed.me.uk : 07757472002
+#### jack@embed.me.uk : 07757472002
 ---
 
 Currently working as a consultant I have extensive experience working with OpenEmbedded, Yocto, build systems, Linux kernel programming and Linux userspace development.
@@ -9,6 +9,17 @@ Currently working as a consultant I have extensive experience working with OpenE
 ### Consultant
 
 Director and consultant at [Tuxable Ltd](http://www.tuxable.co.uk).
+
+#### Recent Contract Projects
+
+- Kernel driver for real-time sensor readings on ARM Linux platform
+- Userspace development in C for a wearable camera device
+- Yocto/Openembedded BSP for nVidia Tegra TK1 platform (https://github.com/madisongh/meta-tegra)
+- Specifying and evaluating hardware platforms for low-cost Linux camera based product
+- Prototyping Android sensor and camera application
+- Yocto/Openembedded BSP for GStreamer/Ducati OMAP4 platform
+- Linux Distribution designs encompassing security, in-field upgradability and performance
+- General consultations on available open-source software and it's effective use in projects
 
 ---
 
@@ -38,8 +49,8 @@ While at dB Broadcast I worked on the MERlin DVB-T/T2 monitoring receiver which 
 
 I designed and implemented a new range of products harnessing the power of Embedded Linux and the OpenEmbedded/Yocto build framework.
 
-Credativ - June 2010 - September 2010
-Student Open Source Software Engineer
+### Credativ - June 2010 - September 2010
+### Student Open Source Software Engineer
 
 During my time at Credativ I was required to undertake a variety of projects, I worked on internal company infrastructure managing network configuration and maintaining hardware and software. I was part of a project developing custom modules for an Open-source ERP system and packaging and testing development versions of the software to ensure stability.
 
