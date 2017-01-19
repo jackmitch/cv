@@ -14,7 +14,7 @@ Director and consultant at [Tuxable Ltd](http://www.tuxable.co.uk).
 
 - Kernel driver for real-time sensor readings on ARM Linux platform
 - Userspace development in C for a wearable camera device
-- Yocto/Openembedded BSP for nVidia Tegra TK1 platform (https://github.com/madisongh/meta-tegra)
+- Yocto/Openembedded BSP for nVidia Tegra TK1 platform ([github:meta-tega](https://github.com/madisongh/meta-tegra))
 - Specifying and evaluating hardware platforms for low-cost Linux camera based product
 - Prototyping Android sensor and camera application
 - Yocto/Openembedded BSP for GStreamer/Ducati OMAP4 platform
@@ -72,4 +72,4 @@ Electronic Product Design, Transferred
 
 ---
 
-This CV is derived from https://github.com/jackmitch/cv, please check for recent updates.
+This CV is derived from [github:cv](https://github.com/jackmitch/cv), please check for recent updates. Click here for a generated [PDF](http://gitprint.com/jackmitch/cv/blob/master/README.md)
