@@ -72,4 +72,4 @@ Electronic Product Design, Transferred
 
 ---
 
-This CV is derived from [github:cv](https://github.com/jackmitch/cv), please check for recent updates. Click here for a generated [PDF](http://gitprint.com/jackmitch/cv/blob/master/README.md)
+This CV is derived from [github:cv](https://github.com/jackmitch/cv), please check for recent updates. Visit for a generated [PDF](http://gitprint.com/jackmitch/cv/blob/master/README.md)
