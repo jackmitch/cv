@@ -3,7 +3,7 @@
 #### jack@embed.me.uk : 07757472002 : https://github.com/jackmitch
 ---
 
-Currently working as a consultant I have extensive experience working with OpenEmbedded, Yocto, build systems, Linux kernel programming and Linux userspace development. Available to commute for on-site work in the London area, or to work remotely with on-site visits when necessary.
+Currently working as a consultant I have extensive experience working with OpenEmbedded, Yocto, build systems, Linux kernel programming and Linux userspace development. Available to commute for on-site work in the London area, or to work remotely or partially on-site for other locations.
 
 ### Tuxable Ltd - 2014 - Present
 ### Consultant/Contractor
