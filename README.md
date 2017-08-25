@@ -12,6 +12,10 @@ Director and consultant at [Tuxable Ltd](http://www.tuxable.co.uk).
 
 #### Recent Contract Projects
 
+- Yocto/OpenEmbedded in house training for developers
+- Yocto/OpenEmbedded release management tooling and easy user/CI/developer setup scripts
+- Linux Kernel driver development for custom GPIO and Interrupt Controller FPGA IP
+- Yocto/OpenEmbedded BSP for NXP QorIQ platforms with custom kernel, drivers and images
 - Kernel driver for real-time sensor readings on ARM Linux platform (I2C/SPI)
 - Userspace development in C for a wearable camera device (Posix Message Queues/pthreads/ioctl/time-sensitive/gstreamer)
 - Yocto/Openembedded BSP for nVidia Tegra TK1 platform ([github:meta-tegra](https://github.com/madisongh/meta-tegra))
