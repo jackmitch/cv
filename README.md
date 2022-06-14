@@ -12,6 +12,18 @@ Director and consultant at [Tuxable Ltd](http://www.tuxable.co.uk).
 
 #### Recent Contract Projects
 
+#### Arsenal 1 and Arsenal 2/2 Pro Development ([https://witharsenal.com](https://witharsenal.com/)) - 2017 - 2022
+
+- Yocto/OpenEmbedded based BSP and distributions for factory testing/development and production images
+- Mainline Linux kernels with ported vendor drivers for Allwinner A83T/H8 and Rockchip RK3288/RK3399
+- Mainline uboot bootloaders with custom board integrations for Allwinner A83T/H8 and Rockchip RK3288/RK3399
+- Factory Testing and validation scripts
+- CI and deterministic image building design and implementation
+- Developer workflow setup and helper scripts for efficient development
+- Design and implementation of update/rollback/recovery system for in field updates
+
+#### Past Contract Projects
+
 - Yocto/OpenEmbedded in house training for developers
 - Yocto/OpenEmbedded release management tooling and easy user/CI/developer setup scripts
 - Linux Kernel driver development for custom GPIO and Interrupt Controller FPGA IP
