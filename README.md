@@ -85,7 +85,3 @@ Embedded Systems Engineering, 2:1
 
 ### Aston University - 2006-2008
 Electronic Product Design, Transferred
-
----
-
-This CV is derived from [github:cv](https://github.com/jackmitch/cv), please check for recent updates. Visit here a generated [PDF](http://gitprint.com/jackmitch/cv/blob/master/README.md)
