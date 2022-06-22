@@ -1,6 +1,8 @@
 ## CV - Jack Mitchell - Manchester, UK
 
-#### jack@embed.me.uk : 07757472002 : https://github.com/jackmitch
+#### [jack@embed.me.uk](jack@embed.me.uk)
+#### 07757472002
+#### [https://github.com/jackmitch](https://github.com/jackmitch)
 ---
 
 Currently working as a consultant I have extensive experience working with OpenEmbedded, Yocto, build systems, Linux kernel programming and Linux userspace development.
@@ -85,3 +87,7 @@ Embedded Systems Engineering, 2:1
 
 ### Aston University - 2006-2008
 Electronic Product Design, Transferred
+
+---
+
+This CV is derived from [github.com/jackmitch/cv](https://github.com/jackmitch/cv), please check for recent updates. A generated PDF version is available [here](http://gitprint.com/jackmitch/cv/blob/master/JackMitchell-CV.pdf).
